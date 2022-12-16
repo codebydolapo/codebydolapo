@@ -5,7 +5,7 @@
 
 My name is Bashorun Dolapo
 
-I’m currently working on Solidity, JavaScript, Typescript, and EVM blockchain applications.
+I’m currently working on Solidity, JavaScript, Typescript, and EVM decentralized applications.
 
 ![ethereum](https://ethereum.org/static/28214bb68eb5445dcb063a72535bc90c/f51a3/hero.png)
 
@@ -15,7 +15,7 @@ I’m currently working on Solidity, JavaScript, Typescript, and EVM blockchain 
 
 💬 Ask me about Solidity, JavaScript, Typescript, and EVM blockchain decentralized applications
 
-📫 How to reach me via -- [LinkedIn](https://www.linkedin.com/in/dolapo-bashorun-8b5164225/) [twitter](https://twitter.com/the_transistorr) [email]()
+📫 Reach me via -- [LinkedIn](https://www.linkedin.com/in/dolapo-bashorun-8b5164225/) [twitter](https://twitter.com/the_transistorr) [email]()
 
 😄 Pronouns are: Mr
 
@@ -57,11 +57,9 @@ I’m currently working on Solidity, JavaScript, Typescript, and EVM blockchain 
 
 ### :fire: My Stats :
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=https://github.com/codebydolapo&theme=dark&background=000000)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=codebydolapo&theme=dark&background=000000)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=https://github.com/codebydolapo)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=https://github.com/codebydolapo)](https://github.com/codebydolapo/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=codebydolapo)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
