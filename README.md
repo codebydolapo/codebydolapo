@@ -61,7 +61,7 @@ I’m currently working on Solidity, JavaScript, Typescript, and EVM blockchain 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=https://github.com/codebydolapo/)](https://github.com/anuraghazra/github-readme-stats)
 
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=https://github.com/codebydolapo/)](https://github.com/codebydolapo/github-readme-stats)
 
 
 
