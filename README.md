@@ -1,5 +1,5 @@
 <h1>
-  hey there
+  Hey there
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
@@ -47,8 +47,8 @@ I’m currently working on Solidity, JavaScript, Typescript, and EVM blockchain 
   <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original-wordmark.svg" title="Next Js" alt="Next" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux " width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/solidity/solidity-original.svg" title="Solidity" alt="Solidity" width="40" height="40"/>&nbsp;
-  <img src="ttps://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="Hardhat" alt="Hardhat" width="40" height="40"/>&nbsp;
-  <img src="ttps://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="Ethers" alt="Ethers" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="Hardhat" alt="Hardhat" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="Ethers" alt="Ethers" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;
@@ -57,9 +57,9 @@ I’m currently working on Solidity, JavaScript, Typescript, and EVM blockchain 
 
 ### :fire: My Stats :
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=https://github.com/codebydolapo/codebydolapo/&theme=dark&background=000000)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=https://github.com/codebydolapo/&theme=dark&background=000000)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=https://github.com/codebydolapo/codebydolapo/)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=https://github.com/codebydolapo/)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
