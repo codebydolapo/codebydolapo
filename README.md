@@ -57,7 +57,7 @@ I’m currently working on Solidity, JavaScript, Typescript, and EVM blockchain 
 
 ### :fire: My Stats :
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=https://github.com/codebydolapo/&theme=dark&background=000000)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=https://github.com/codebydolapo&theme=dark&background=000000)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=https://github.com/codebydolapo/)](https://github.com/anuraghazra/github-readme-stats)
 
