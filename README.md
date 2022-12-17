@@ -15,7 +15,7 @@ I’m currently working on Solidity, JavaScript, Typescript, and EVM decentraliz
 
 💬 Ask me about Solidity, JavaScript, Typescript, and EVM blockchain decentralized applications
 
-📫 Reach me via -- [LinkedIn](https://www.linkedin.com/in/dolapo-bashorun-8b5164225/) [twitter](https://twitter.com/the_transistorr) [email]()
+📫 Reach me via -- [LinkedIn](https://www.linkedin.com/in/dolapo-bashorun-8b5164225/), on [twitter](https://twitter.com/the_transistorr) or via [email]()
 
 😄 Pronouns are: Mr
 
