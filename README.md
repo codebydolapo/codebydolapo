@@ -19,7 +19,7 @@ I’m currently working on Solidity, JavaScript, Typescript, and EVM decentraliz
 
 😄 Pronouns are: Mr
 
-⚡ Fun fact: I also have a degree in electrical engineering, and am an avid technical writer
+⚡ Fun fact: I also have a degree in electrical engineering, and am an avid reader and technical writer.
 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
