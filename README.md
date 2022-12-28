@@ -5,7 +5,7 @@
 
 My name is Bashorun Dolapo
 
-I’m currently working on Solidity, JavaScript, Typescript, and EVM decentralized applications.
+I’m currently working on Solidity, JavaScript, Typescript, and EVM-based decentralized applications.
 
 ![ethereum](https://ethereum.org/static/28214bb68eb5445dcb063a72535bc90c/f51a3/hero.png)
 
