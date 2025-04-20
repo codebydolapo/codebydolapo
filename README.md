@@ -7,7 +7,7 @@ My name is Bashorun Dolapo.
 
 I’m currently working on React Native and Expo projects, guided along by AGILE methodologies in software development.
 
-![React-Native][(https://ethereum.org/static/28214bb68eb5445dcb063a72535bc90c/f51a3/hero.png](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSg1MndL-Xp1JcnqaB0YOqTp6zDjrwYyGKsPA&s))
+![React-Native](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSg1MndL-Xp1JcnqaB0YOqTp6zDjrwYyGKsPA&s)
 
 👯 I’m looking to collaborate and get hired for roles or internships.
 
