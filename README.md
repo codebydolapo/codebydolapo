@@ -5,15 +5,15 @@
 
 My name is Bashorun Dolapo.
 
-I’m currently working on Solidity, JavaScript, Typescript, and EVM-based decentralized applications.
+I’m currently working on React Native and Expo projects, guided along by AGILE methodologies in software development.
 
-![ethereum](https://ethereum.org/static/28214bb68eb5445dcb063a72535bc90c/f51a3/hero.png)
+![React-Native][(https://ethereum.org/static/28214bb68eb5445dcb063a72535bc90c/f51a3/hero.png](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSg1MndL-Xp1JcnqaB0YOqTp6zDjrwYyGKsPA&s))
 
 👯 I’m looking to collaborate and get hired for roles or internships.
 
-🤔 I’m looking for help with jobs
+🤔 I’m always on job hunts
 
-💬 Ask me about Solidity, JavaScript, Typescript, and EVM blockchain decentralized applications
+💬 Ask me about React Native, JavaScript, Typescript, and Expo-based applications
 
 📫 Reach me via -- [LinkedIn](https://www.linkedin.com/in/dolapo-bashorun-8b5164225/), on [twitter](https://twitter.com/the_transistorr) or via [email]()
 
@@ -40,6 +40,7 @@ I’m currently working on Solidity, JavaScript, Typescript, and EVM-based decen
 ### :hammer_and_wrench: Languages and Tools :
 
 <div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
