@@ -17,7 +17,7 @@ I’m currently working on React Native and Expo projects, guided along by AGILE
 
 📫 Reach me via -- [LinkedIn](https://www.linkedin.com/in/dolapo-bashorun-8b5164225/), on [twitter](https://twitter.com/the_transistorr) or via [email]()
 
-😄 Pronouns are: Mr
+😄 Pronouns are: He/Him
 
 ⚡ Fun fact: I also have a degree in electrical engineering, and am an avid reader and technical writer.
 
