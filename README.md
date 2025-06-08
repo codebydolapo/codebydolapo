@@ -7,7 +7,7 @@ My name is Bashorun Dolapo.
 
 I’m currently working on Web and mobile-based projects, guided along by AGILE methodologies in software development.
 
-![React-Native]([https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSg1MndL-Xp1JcnqaB0YOqTp6zDjrwYyGKsPA&s](https://t4.ftcdn.net/jpg/08/86/49/53/240_F_886495385_XudXZcfZb7FqTwSWpDjwOEWfsol6Sw6e.jpg))
+![React-Native]([https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSg1MndL-Xp1JcnqaB0YOqTp6zDjrwYyGKsPA&s](https://t4.ftcdn.net/jpg/08/86/49/53/240_F_886495385_XudXZcfZb7FqTwSWpDjwOEWfsol6Sw6e.jpg)
 
 👯 I’m looking to collaborate and get hired for roles.
 
